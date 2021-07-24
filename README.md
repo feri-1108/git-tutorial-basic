@@ -6,3 +6,5 @@ Este es mi primer cambio en Git
 jeje
 
 este texto fue agregado para hacer uso de github desktop
+
+Texto agregado desde visual code
